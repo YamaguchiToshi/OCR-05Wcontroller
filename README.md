@@ -16,6 +16,12 @@ Adafruit製「Circuit Playground Express」でオーム電機製「リモコン�
 
     ボタンを押すとonの信号が，離すとoffの信号が送信されます．
 
-## Credit
+## Reference
+
+- [リモコンコンセント](https://www.ohm-electric.co.jp/product/c23/c2313/19582/)
+- [Circuit Playground Express](https://www.adafruit.com/products/3333)
+- [Adafruit Circuit Playground Express](https://www.electrokit.com/uploads/productfile/41016/adafruit-circuit-playground-express.pdf)
+
+## Author
 
 * Toshimitsu Yamaguchi
