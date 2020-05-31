@@ -8,8 +8,8 @@ const byte IRtx_pin = 25;  // IR送信は25番(内蔵)
 const byte exsw_pin = 3;   // 外部スイッチは３番(A4)
 
 // スイッチのステータス
-int sw = 0;
-int exsw = 0;
+int sw = 0;     // 基板上
+int exsw = 0;   // 外付け
 
 void setup() {
   CircuitPlayground.begin();
